@@ -48,7 +48,7 @@ wss.on("connection", (ws) => {
 const server = http.createServer(app);
 const io = require('socket.io')(server, {
   cors: {
-    origin: 'http://192.168.107.188:3003',
+    origin: 'http://192.168.164.188:3003',
     methods: ['GET', 'POST'],
   },
 });

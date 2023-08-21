@@ -175,7 +175,7 @@ const History = () => {
           </View>
           <View style={styles.row}>
             <Text style={styles.label}>Harga:</Text>
-            <Text style={styles.value}>{formatPric  e(order.harga)}</Text>
+            <Text style={styles.value}>{formatPrice(order.harga)}</Text>
           </View>
           <View style={styles.row}>
             <Text style={styles.label}>No Telp:</Text>
