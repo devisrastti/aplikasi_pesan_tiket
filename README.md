@@ -5,3 +5,4 @@ create folder -> open git cli -> git clone https://github.com/Genta-arya/Ticket-
 How to run :
 npm install
 npm start
+"# Tiket" 
